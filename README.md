@@ -1,0 +1,2 @@
+# Inori
+ensemble star
